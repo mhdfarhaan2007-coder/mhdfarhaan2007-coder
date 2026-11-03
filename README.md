@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**mhdfarhaan2007-coder/mhdfarhaan2007-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Farhaan
 
-Here are some ideas to get you started:
+### Aspiring Generative AI Engineer | AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a B.Sc. Computer Science with Artificial Intelligence student, graduating in 2027.
+
+I'm interested in building practical AI applications using Python, Large Language Models, Retrieval-Augmented Generation (RAG), and AI Agents.
+
+### Technical Interests
+- Generative AI and LLMs
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and Agentic Workflows
+- Machine Learning
+- Backend Development with Python
+
+### Technologies
+- Python
+- LangChain
+- ChromaDB
+- Ollama
+- REST APIs
+- Git and GitHub
+
+### Current Focus
+- Building reliable AI applications
+- Learning AI evaluation and agent architectures
+- Improving software engineering fundamentals
+
+### Education
+B.Sc. Computer Science with Artificial Intelligence
+Expected Graduation: March 2027
